@@ -36,7 +36,7 @@
 
 ## 项目展示
 
-- [在线演示](https://skymail.ink)<br>
+- [在线演示](https://mail.ccehome.com)<br>
 - [部署文档](https://doc.skymail.ink)<br>
 
 | ![](/doc/demo/demo1.png) | ![](/doc/demo/demo2.png) |
